@@ -1,0 +1,3 @@
+Both myself and Vadims usually met in the college or using Discord and worked on the code together.
+The only time when we took different parts of the game was doing the menu and the life counter.
+Vadims did the menu and i just added the Source Code button to open up github and i did the life counter other than that we both did everything together
